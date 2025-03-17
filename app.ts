@@ -9,8 +9,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const app = express();
-
-app.use(cors());
+app.use(cors({ origin: "https://vonder-test-backend.fly.dev" }));
 // Middleware
 app.use(express.json());
 
