@@ -1,6 +1,10 @@
 # Transaction Management Backend
 
 This is the backend for a **Transaction Management System**. It provides a RESTful API for managing financial transactions, including creating, retrieving, updating, and deleting transactions, as well as calculating balances and exporting data.
+To see api docs : 
+```
+http://localhost:$PORT/api-docs
+```
 
 ---
 
