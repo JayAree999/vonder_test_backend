@@ -41,5 +41,6 @@ PORT=3000
 CORS_ORIGIN=http://localhost:3000
 ```
 4. Start the server:
-
+```
 npm start
+```
