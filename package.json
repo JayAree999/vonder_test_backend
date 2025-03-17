@@ -19,6 +19,6 @@
     "typescript": "^5.8.2"
   },
   "scripts": {
-    "dev": "ts-node ./app.ts"
+    "start": "ts-node ./app.ts"
   }
 }
