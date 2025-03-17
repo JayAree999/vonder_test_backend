@@ -11,14 +11,11 @@
     "winston": "^3.17.0",
     "express": "^4.21.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.2"
-  },
-  "devDependencies": {
+    "typescript": "^5.8.2",
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
     "@types/json2csv": "^5.0.7",
     "@types/node": "^18.11.18"
-
   },
   "scripts": {
     "start": "ts-node ./app.ts"
