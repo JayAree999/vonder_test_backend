@@ -5,16 +5,17 @@ import Transaction from './models/transaction_schema';
 import winston from 'winston';
 import { Parser } from 'json2csv';
 import cors from 'cors';
+const dotenv = require('dotenv');
+dotenv.config();
 
 const app = express();
-const port = 3000;
+
 app.use(cors());
 // Middleware
 app.use(express.json());
 
-// MongoDB Connection URI
-const uri = "mongodb+srv://jayyqwe123:jayyqwe123@vonder-test.1uiu8.mongodb.net/?retryWrites=true&w=majority&appName=vonder-test";
-
+const uri = `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@vonder-test.1uiu8.mongodb.net/?retryWrites=true&w=majority&appName=vonder-test`;
+const port = process.env.PORT;
 const logger = winston.createLogger({
   level: 'info',
   format: winston.format.json(),
