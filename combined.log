@@ -1,0 +1,72 @@
+{"level":"info","message":"CORS-enabled web server listening on port 80"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Transaction created: 67d8015b67d24eb6fb4be07e"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"CORS-enabled web server listening on port 80"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Transaction created: 67d801b49e9e50ed71845d4d"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Exported transactions to CSV"}
+{"level":"info","message":"Transaction deleted: 67d801b49e9e50ed71845d4d"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Transaction created: 67d802339e9e50ed71845d57"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Transaction deleted: 67d802339e9e50ed71845d57"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Transaction created: 67d8023b9e9e50ed71845d60"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Exported transactions to CSV"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Transaction created: 67d8115adf6ac5d82871afb0"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Exported transactions to CSV"}
+{"level":"info","message":"Exported transactions to CSV"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Server running on port 3000"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Exported transactions to CSV"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
+{"level":"info","message":"Exported transactions to CSV"}
+{"level":"info","message":"Exported transactions to CSV"}
+{"level":"info","message":"Fetched all transactions"}
+{"level":"info","message":"Calculated balance"}
+{"level":"info","message":"Fetched summary"}
