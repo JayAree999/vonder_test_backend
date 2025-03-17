@@ -5,7 +5,6 @@ import Transaction from './models/transaction_schema';
 import winston from 'winston';
 import { Parser } from 'json2csv';
 import cors from 'cors';
-import path from 'path';
 
 const app = express();
 const port = 3000;
@@ -21,8 +20,6 @@ const logger = winston.createLogger({
   format: winston.format.json(),
   transports: [
     new winston.transports.Console(), // Add this for console output
-    new winston.transports.File({ filename: 'error.log', level: 'error' }),
-    new winston.transports.File({ filename: 'combined.log' }),
   ],
 });
 
